@@ -1,0 +1,6 @@
+{
+  "name": "TUMDEEMEDIA",
+  "description": "ร้านทำป้ายตรัง ทำดีมีเดีย รับทำป้ายไวนิล โครงสร้าง ป้ายไฟ สื่อโฆษณาทุกชนิด คุณภาพดี ราคาถูก จัดส่งทั่วประเทศ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
